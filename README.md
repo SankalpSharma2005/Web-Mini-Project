@@ -12,3 +12,7 @@ Let's understasnd the website
 3. The webpages for each academic block provide details about their facilities, including information on various labs, smart classrooms, and auditoriums located on different floors.(to be added for the final review).
 
 4. The home button on academic block's weebpage navigates to the main infrastructure page.
+
+5. The social media icons in the "About" section provide direct links to their respective official social media handles.
+
+6. We have also uploaded the file that is uploaded on VTOP with pictures.
